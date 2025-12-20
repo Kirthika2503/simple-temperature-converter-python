@@ -22,8 +22,4 @@ The program accepts both **uppercase and lowercase** unit inputs for better user
    - `F` or `f` for Fahrenheit
 3. The program converts the temperature and displays the result.
 
----
 
-## Example Usage
-
-### Celsius to Fahrenheit
